@@ -25,3 +25,6 @@
 ## Youtube
 - [SocialTalent](https://www.youtube.com/c/socialtalent/videos)
 - [Dean Da Costa](https://www.youtube.com/c/DeanDaCostathesearchauthority/videos)
+- [TheSocialRecruiting](https://www.youtube.com/channel/UCP0SghvTPgCSqi0noNFUVYA)
+- [ShaneMcCusker](https://www.youtube.com/user/Recruitmentmanager/videos)
+- [GregHawkes](https://www.youtube.com/c/GregHawkes-SourcingIRL/videos)
