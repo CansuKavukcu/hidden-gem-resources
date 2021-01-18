@@ -24,3 +24,4 @@
 
 ## Youtube
 - [SocialTalent](https://www.youtube.com/c/socialtalent/videos)
+- [Dean Da Costa](https://www.youtube.com/c/DeanDaCostathesearchauthority/videos)
