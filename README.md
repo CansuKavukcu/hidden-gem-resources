@@ -32,3 +32,7 @@
 - [TheSocialRecruiting](https://www.youtube.com/channel/UCP0SghvTPgCSqi0noNFUVYA)
 - [ShaneMcCusker](https://www.youtube.com/user/Recruitmentmanager/videos)
 - [GregHawkes](https://www.youtube.com/c/GregHawkes-SourcingIRL/videos)
+
+## Platforms
+- [Dev.to](https://dev.to/) - You can see the URLs for a given hashtag (topic) are structured like: “/t/HASHTAG”
+
