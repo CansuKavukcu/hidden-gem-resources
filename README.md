@@ -1,6 +1,28 @@
 # hidden-gem-resources
 
-      
+Let me introduce myself ;
+My name is Cansu Kavukcu and I’m 28 years old. I am married and I have been living in the NL for 2,5 years. 
+And now I would be pleased to share few facts about my professional background. I had worked for 4 years in Turkey and I have been working for 2 years in the Netherlands as a Technical Sourcer. I have worked in various types of companies like start-ups, enterprises, global banks, and a recruitment agency for sourcing IT candidates. Apart from this, I also took roles in recruitment processes like onboarding, preparing job description, offering and employer branding but sourcing is the part that I have most experience in.  
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
 ## Blogs
 - [SourceCon](https://www.sourcecon.com/)
 - [RecruitingDaily](https://recruitingdaily.com/)
