@@ -38,11 +38,11 @@ Thank you for your attention. I would be glad to get to know you and now I would
 - [Startme](https://start.me/p/GE7Ebm/ssar)
 - [Sourcing F.Y.I](https://ohsusannamarie.com/2018/07/13/recommended-viewing-the-best-recruitment-youtube-channels-of-2018/)
 - [Roadmap](https://roadmap.sh/)
-- [Tech_Community_Slack] (https://github.com/thisdot/tech-community-slacks/blob/master/README.md)
-- [Free Resources_1] (https://start.me/p/GE7Ebm/ssar)
-- [Free Resources_2] (https://start.me/p/aLAeEp/ssar-2)
-- [Free Resources_3] (https://start.me/p/GEOaz8/ssar-3)
-- [Free Resources_4] (https://start.me/p/q64ONA/ssar-4)
+- [TechCommunitySlack](https://github.com/thisdot/tech-community-slacks/blob/master/README.md)
+- [Free Resources 1](https://start.me/p/GE7Ebm/ssar)
+- [Free Resources_2](https://start.me/p/aLAeEp/ssar-2)
+- [Free Resources_3](https://start.me/p/GEOaz8/ssar-3)
+- [Free Resources_4](https://start.me/p/q64ONA/ssar-4)
 
 ## Youtube
 - [SocialTalent](https://www.youtube.com/c/socialtalent/videos)
