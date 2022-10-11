@@ -37,6 +37,7 @@ Thank you for your attention. I would be glad to get to know you and now I would
 ## I Love IT!!!
 - [Startme](https://start.me/p/GE7Ebm/ssar)
 - [Sourcing F.Y.I](https://ohsusannamarie.com/2018/07/13/recommended-viewing-the-best-recruitment-youtube-channels-of-2018/)
+- [Roadmap](https://roadmap.sh/)
 
 ## Youtube
 - [SocialTalent](https://www.youtube.com/c/socialtalent/videos)
