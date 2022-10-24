@@ -43,6 +43,7 @@ Thank you for your attention. I would be glad to get to know you and now I would
 - [Free Resources_2](https://start.me/p/aLAeEp/ssar-2)
 - [Free Resources_3](https://start.me/p/GEOaz8/ssar-3)
 - [Free Resources_4](https://start.me/p/q64ONA/ssar-4)
+- [IntelTechniques](https://inteltechniques.com/tools/index.html)
 
 ## Youtube
 - [SocialTalent](https://www.youtube.com/c/socialtalent/videos)
