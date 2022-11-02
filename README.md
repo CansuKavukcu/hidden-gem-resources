@@ -4,7 +4,7 @@
 Hi all, 
 
 Let me introduce myself ;
-My name is Cansu Kavukcu and I’m 28 years old. I am married and I have been living in the NL for 2,5 years. 
+My name is Cansu Kavukcu and I’m 30 years old. I am married and I have been living in the NL for 4 years. 
 And now I would be pleased to share few facts about my professional background. I had worked for 4 years in Turkey and I have been working for 2 years in the Netherlands as a Technical Sourcer. I have worked in various types of companies like start-ups, enterprises, global banks, and a recruitment agency for sourcing IT candidates. Apart from this, I also took roles in recruitment processes like onboarding, preparing job description, offering and employer branding but sourcing is the part that I have most experience in.  
 
 The idea of becoming a part of a successful and productive team is an honour for me. In my spare time I undertake a wide range of activities; I’m particularly keen on doing exercise, cooking, and travelling. Recently, I developed interest in programming and I started writing my own resume parser robot with Python thanks to pandemic situation😊. Additionally, I am starting taking Dutch courses and I believe, working together will help me a lot to speed up my learning process😊. 
