@@ -1,4 +1,4 @@
-# hidden-gem-resources
+# Undiscovered-gems
 
 
 Hi all, 
@@ -21,6 +21,8 @@ Thank you for your attention. I would be glad to get to know you and now I would
 ## Podcast
 - [Talk Talent to Me](http://www.talktalenttome.com/)
 - [The Chad & Cheese Podcast](https://www.chadcheese.com/)
+- [Recruitment On The Go](https://podcasts.apple.com/gb/podcast/recruitment-on-the-go/id1469026502)
+- [HR Happy Hour]([https://podcasts.apple.com/gb/podcast/recruitment-on-the-go/id1469026502](https://www.hrhappyhour.net/))
 
 ## Books
 - [Full Stack Recruiter - Jan Tegze](https://www.amazon.com/Full-Stack-Recruiter-Modern-Recruiters/dp/1976130735)
@@ -34,7 +36,7 @@ Thank you for your attention. I would be glad to get to know you and now I would
 - [Custom Search Engine by Google](https://cse.google.com/)
 - [SourcingLab](https://www.sourcinglab.io/)
 
-## I Love IT!!!
+## A MUST-HAVE
 - [Startme](https://start.me/p/GE7Ebm/ssar)
 - [Sourcing F.Y.I](https://ohsusannamarie.com/2018/07/13/recommended-viewing-the-best-recruitment-youtube-channels-of-2018/)
 - [Roadmap](https://roadmap.sh/)
