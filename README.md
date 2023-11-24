@@ -22,7 +22,6 @@ Thank you for your attention. I would be glad to get to know you and now I would
 - [Talk Talent to Me](http://www.talktalenttome.com/)
 - [The Chad & Cheese Podcast](https://www.chadcheese.com/)
 - [Recruitment On The Go](https://podcasts.apple.com/gb/podcast/recruitment-on-the-go/id1469026502)
-- [HR Happy Hour]([https://podcasts.apple.com/gb/podcast/recruitment-on-the-go/id1469026502](https://www.hrhappyhour.net/))
 
 ## Books
 - [Full Stack Recruiter - Jan Tegze](https://www.amazon.com/Full-Stack-Recruiter-Modern-Recruiters/dp/1976130735)
