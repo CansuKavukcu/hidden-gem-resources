@@ -3,15 +3,17 @@
 
 Hi all, 
 
-Let me introduce myself ;
-My name is Cansu Kavukcu and I’m 30 years old. I am married and I have been living in the NL for 4 years. 
-And now I would be pleased to share few facts about my professional background. I had worked for 4 years in Turkey and I have been working for 2 years in the Netherlands as a Technical Sourcer. I have worked in various types of companies like start-ups, enterprises, global banks, and a recruitment agency for sourcing IT candidates. Apart from this, I also took roles in recruitment processes like onboarding, preparing job description, offering and employer branding but sourcing is the part that I have most experience in.  
+My name is Cansu Kavukcu, and I am 30 years old. I am happily married and have been residing in the Netherlands for the past four years.
 
-The idea of becoming a part of a successful and productive team is an honour for me. In my spare time I undertake a wide range of activities; I’m particularly keen on doing exercise, cooking, and travelling. Recently, I developed interest in programming and I started writing my own resume parser robot with Python thanks to pandemic situation😊. Additionally, I am starting taking Dutch courses and I believe, working together will help me a lot to speed up my learning process😊. 
+Now, I'd like to share a bit about my professional journey. I spent four years working in Turkey before relocating to the Netherlands, where I've been serving as a Technical Sourcer for the past two years. My experience spans across various sectors, including start-ups, enterprises, global banks, and a recruitment agency, primarily focusing on sourcing IT candidates. While I've been involved in different aspects of recruitment processes such as onboarding, crafting job descriptions, offering, and employer branding, my expertise lies in sourcing.
 
-Thank you for your attention. I would be glad to get to know you and now I would be pleased to answer your questions!   
- 
- 
+Joining a successful and dynamic team is a privilege for me. In my free time, I engage in a variety of activities, particularly enjoying exercise, cooking, and exploring new destinations. During the recent pandemic, I developed an interest in programming and embarked on creating my own resume parser robot using Python. Additionally, I've begun taking Dutch courses to further integrate into the community and accelerate my learning process with the support of colleagues.
+
+Thank you for your attention. I look forward to getting acquainted with you, and I'm ready to address any questions you may have.
+
+
+
+
  
 ## Blogs
 - [SourceCon](https://www.sourcecon.com/)
