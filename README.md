@@ -29,13 +29,14 @@ Thank you for your attention. I look forward to getting acquainted with you, and
 - [Full Stack Recruiter - Jan Tegze](https://www.amazon.com/Full-Stack-Recruiter-Modern-Recruiters/dp/1976130735)
 - [The Robot-Proof Recruiter: A Survival Guide for Recruitment and Sourcing Professionals - Katrina Collier](https://www.amazon.com/Robot-Proof-Recruiter-Survival-Recruitment-Professionals-ebook-dp-B07VZVYXSN/dp/B07VZVYXSN/ref=mt_kindle?_encoding=UTF8&me=&qid=)
 
-## Search Tools
+## Boolean and X-Ray
 - [Amazing Hiring](https://chrome.google.com/webstore/detail/amazinghiring/didkfdopbffjkpolefhpcjkohcpalicd?hl=en)
 - [BooleanStrings Bank](https://scoperac.com/booleanstringbank/) - String directory for Sourcers. 
 - [RocketReach Search](https://rocketreach.co/person?start=1&pageSize=10&keyword=cansu%20kavukcu) 
 - [Recruit'em](https://recruitin.net/?sthash.XlJZW4gy.mjjo&goback=%2Egde_2607097_member_259682108) 
 - [Custom Search Engine by Google](https://cse.google.com/)
 - [SourcingLab](https://www.sourcinglab.io/)
+- [the Balazs'Boolean Builder](https://docs.google.com/spreadsheets/d/1v27Oybrv9H5sn3MMD76clLp2B4mwhA7OtUkfQzlNu8w/edit#gid=413477126) - A public Google spreadsheet that helps you build a boolean search string (both standard and Linkedin style).
 
 ## A MUST-HAVE
 - [Startme](https://start.me/p/GE7Ebm/ssar)
