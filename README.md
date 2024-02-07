@@ -53,6 +53,10 @@ Thank you for your attention. I would be glad to get to know you and now I would
 - [ShaneMcCusker](https://www.youtube.com/user/Recruitmentmanager/videos)
 - [GregHawkes](https://www.youtube.com/c/GregHawkes-SourcingIRL/videos)
 
+## Talent Intelligence 
+- [Talent Intelligence Collective Podcast](https://podcasts.apple.com/us/podcast/talent-intelligence-collective-podcast/id1533634924)
+
+
 ## Platforms
 - [Dev.to](https://dev.to/) - You can see the URLs for a given hashtag (topic) are structured like: “/t/HASHTAG”
 
