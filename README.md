@@ -2,7 +2,18 @@
 
 An  awesome-list of tools and information for talent acquisition professionals.
 
- 
+## ❤️ My favourites ❤️
+The rest is pretty cool too, but these deserve a special place :)
+- [Sourcing Games](http://sourcing.games/)
+- [Extensity](https://chrome.google.com/webstore/detail/extensity/jjmflmamggggndanpgfnpelongoepncg)
+- [Giphy](https://giphy.com/)
+- [MixMax](http://ssqt.co/mQgncqF) 
+
+- This simple text editor in my browser
+  - *tip: create a bookmark with this (only this line of code) and pin it on the first tab when you are sourcing*
+
+      ```data:text/html,<html><textarea rows="40" style="width: 100%;height: 100wh;"></textarea></html>```
+    
 ## Blogs
 - [SourceCon](https://www.sourcecon.com/)
 - [RecruitingDaily](https://recruitingdaily.com/)
@@ -10,7 +21,7 @@ An  awesome-list of tools and information for talent acquisition professionals.
 - [GlossaryTech](https://blog.glossarytech.com/)
 - [Boolean Black Belt-Sourcing/Recruiting](https://booleanblackbelt.com/)
 
-## Podcast
+## 🎧 Podcast
 - [Talk Talent to Me](http://www.talktalenttome.com/)
 - [The Chad & Cheese Podcast](https://www.chadcheese.com/)
 - [Recruitment On The Go](https://podcasts.apple.com/gb/podcast/recruitment-on-the-go/id1469026502)
@@ -19,11 +30,33 @@ An  awesome-list of tools and information for talent acquisition professionals.
 - [Talent Takeover Unfiltered by Brianna Rooney](https://podcasts.apple.com/us/podcast/talent-takeover-unfiltered/id1621958339)
 
 ## Books
-- [Full Stack Recruiter - Jan Tegze](https://www.amazon.com/Full-Stack-Recruiter-Modern-Recruiters/dp/1976130735)
-- [The Robot-Proof Recruiter: A Survival Guide for Recruitment and Sourcing Professionals - Katrina Collier](https://www.amazon.com/Robot-Proof-Recruiter-Survival-Recruitment-Professionals-ebook-dp-B07VZVYXSN/dp/B07VZVYXSN/ref=mt_kindle?_encoding=UTF8&me=&qid=)
 - [ High-Tech High-Touch Recruiting](https://www.amazon.com/High-Tech-High-Touch-Recruiting-Improving-Experience/dp/1789665175)
 - [Hire by Design](https://www.amazon.com/Hire-Design-Hiring-Blueprint-Thinking/dp/B08KRCHMRS)
 - [The Culture Map](https://www.amazon.nl/-/en/Erin-Meyer/dp/1610392507)
+- [Full Stack Recruiter: New Secrets Revealed - Jan Tegze](https://www.amazon.com/Full-Stack-Recruiter-Secrets-Revealed/dp/8027048184/ref=tmm_pap_swatch_0?_encoding=UTF8&qid=1541714235&sr=8-2)
+- [300 Best Boolean Strings - Irina Shamaeva](https://booleanbook.com/)
+- [Sourcing Hacks - Irina Shamaeva & David Galley](https://sourcingcertification.com/sourcinghacksbook/) 
+- [Social Engineering: The Art of Human Hacking](https://www.amazon.com/Social-Engineering-Art-Human-Hacking/dp/0470639539)
+- [The Book of Recruiting; Da Costa Style - Dean Da Costa & Derek Zeller](https://www.amazon.com/Book-Recruiting-Costa-Style/dp/1717803245/ref=sr_1_1?s=books&ie=UTF8&qid=1533303148&sr=1-1)
+- [The Robot-Proof Recruiter: A Survival Guide for Recruitment and Sourcing Professionals - Katrina Collier](https://www.amazon.com/Robot-Proof-Recruiter-Survival-Recruitment-Professionals-ebook-dp-B07VZVYXSN/dp/B07VZVYXSN/ref=mt_kindle?_encoding=UTF8&me=&qid=)
+- [The Joy of Google Search - Daniel M. Russel](https://www.amazon.com/Joy-Search-Google-Insiders-Beyond/dp/0262042878)
+- [The Holloway Guide to Technical Recruiting and Hiring](https://www.holloway.com/g/technical-recruiting-hiring/about)
+- [Full Stack Recruiter: The Ultimate Edition (2020) - Jan Tegze](https://www.fullstackrecruiter.net/)
+
+## ❤️ Cool lists created by cool people ❤️
+- [Martin Freeman's Sourcing Toolkit ](https://www.sheet2site.com/api/?key=14QxepwUDdmao57_gFA2Org4zr34Pl0GvKIs8TDBRjbA)
+- [Dean DaCosta Tools List](http://thesearchauthority.weebly.com/tools.html)
+- [RecruiterHunt](https://recruiterhunt.com/)
+- [Bellingcat's Digital Toolkit](https://docs.google.com/document/d/1BfLPJpRtyq4RFtHJoNpvWQjmGnyVkfE2HYoICKOGguA/edit) 
+- [Recruitment Blogs 2018](https://ohsusannamarie.com/2018/07/08/recommended-reading-the-best-recruitment-blogs-of-2018/) -  By Susanna Frazier. 
+- [OSINT Stash](https://osint.best/) - By Denis Dinkevich 🔎.
+- [Big List of Places to Post Jobs (Global)](https://www.recruitingbrainfood.com/big-list-of-places-to-post-jobs-globally/) - By Hung Lee. 
+- [Big list of Recruitment events 2019](https://www.recruitingbrainfood.com/list-of-events-2019/) - By Hung Lee. 
+- [Big list of Recruiting / HR podcasts](https://www.recruitingbrainfood.com/big-list-of-podcasts/) - By Hung Lee. 
+- [Big list of Online Recruiting Communities](https://www.recruitingbrainfood.com/big-list-of-online-recruiter-communities) - By Hung Lee. 
+- [SSaR](https://start.me/p/GE7Ebm/ssar) - Huge Tools list by Dean Da Costa.
+- [CSE Utopia](https://start.me/p/EL84Km/cse-utopia) - Amazing list of public CSEs by Dean Da Costa.
+
 
 ## Boolean and X-Ray
 - [Amazing Hiring](https://chrome.google.com/webstore/detail/amazinghiring/didkfdopbffjkpolefhpcjkohcpalicd?hl=en)
@@ -63,7 +96,7 @@ An  awesome-list of tools and information for talent acquisition professionals.
 ## Design
 - [Canva](https://www.canva.com/)
 
-  ## Grammar
+### 📑 Grammar, Spelling & Words
 - [Grammarly](https://www.grammarly.com/) - Free online writing assistant. It integrates with your computer and/or browser and checks your grammar in real-time as you type.
 - [Job Lint](https://joblint.org/) - Test tech job posts for issues with sexism, culture, expectations, and recruiter fails.
 - [Job Page Grader](https://jobpagegrader.com/) - See how good your job description is and how to improve it. Paste any of your job page URLs into a box and check it against 80 proven performance criteria that affects whether someone applies for that role or not.
