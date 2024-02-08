@@ -64,3 +64,10 @@ Thank you for your attention. I look forward to getting acquainted with you, and
 ## Design
 - [Canva](https://www.canva.com/)
 
+  ## Grammar
+- [Grammarly](https://www.grammarly.com/) - Free online writing assistant. It integrates with your computer and/or browser and checks your grammar in real-time as you type (not just spelling).
+- [Job Lint](https://joblint.org/) - Test tech job posts for issues with sexism, culture, expectations, and recruiter fails.
+- [Job Page Grader](https://jobpagegrader.com/) - See how good your job description is and how to improve it. Paste any of your job page URLs into a box and check it against 80 proven performance criteria that affects whether someone applies for that role or not.
+- [Job Title Thesaurus](https://www.enlightenjobs.com/job-titles.php) - Enter a job title and see a list of similar job titles.
+- [Total Jobs Gender Bias Detector](https://www.totaljobs.com/insidejob/gender-bias-decoder/) -  Paste in the job description and this tool will show you have many female-coded and male-coded words there are. By replacing male-biased language with our neutral or female-coded suggestions, your job advert will appeal to more people and generate more applications.
+
