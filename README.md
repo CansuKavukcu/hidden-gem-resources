@@ -16,6 +16,9 @@ An  awesome-list of tools and information for talent acquisition professionals.
 ## Books
 - [Full Stack Recruiter - Jan Tegze](https://www.amazon.com/Full-Stack-Recruiter-Modern-Recruiters/dp/1976130735)
 - [The Robot-Proof Recruiter: A Survival Guide for Recruitment and Sourcing Professionals - Katrina Collier](https://www.amazon.com/Robot-Proof-Recruiter-Survival-Recruitment-Professionals-ebook-dp-B07VZVYXSN/dp/B07VZVYXSN/ref=mt_kindle?_encoding=UTF8&me=&qid=)
+- [ High-Tech High-Touch Recruiting](https://www.amazon.com/High-Tech-High-Touch-Recruiting-Improving-Experience/dp/1789665175)
+- [Hire by Design](https://www.amazon.com/Hire-Design-Hiring-Blueprint-Thinking/dp/B08KRCHMRS)
+- [The Culture Map](https://www.amazon.nl/-/en/Erin-Meyer/dp/1610392507)
 
 ## Boolean and X-Ray
 - [Amazing Hiring](https://chrome.google.com/webstore/detail/amazinghiring/didkfdopbffjkpolefhpcjkohcpalicd?hl=en)
