@@ -48,7 +48,6 @@ The rest is pretty cool too, but these deserve a special place :)
 - [Dean DaCosta Tools List](http://thesearchauthority.weebly.com/tools.html)
 - [RecruiterHunt](https://recruiterhunt.com/)
 - [Bellingcat's Digital Toolkit](https://docs.google.com/document/d/1BfLPJpRtyq4RFtHJoNpvWQjmGnyVkfE2HYoICKOGguA/edit) 
-- [Recruitment Blogs 2018](https://ohsusannamarie.com/2018/07/08/recommended-reading-the-best-recruitment-blogs-of-2018/) -  By Susanna Frazier. 
 - [OSINT Stash](https://osint.best/) - By Denis Dinkevich 🔎.
 - [Big List of Places to Post Jobs (Global)](https://www.recruitingbrainfood.com/big-list-of-places-to-post-jobs-globally/) - By Hung Lee. 
 - [Big list of Recruitment events 2019](https://www.recruitingbrainfood.com/list-of-events-2019/) - By Hung Lee. 
