@@ -7,6 +7,8 @@ An  awesome-list of tools and information for talent acquisition professionals.
 - [SourceCon](https://www.sourcecon.com/)
 - [RecruitingDaily](https://recruitingdaily.com/)
 - [TheSavageTruth](https://gregsavage.com.au/the-savage-truth/)
+- [GlossaryTech](https://blog.glossarytech.com/)
+- [Boolean Black Belt-Sourcing/Recruiting](https://booleanblackbelt.com/)
 
 ## Podcast
 - [Talk Talent to Me](http://www.talktalenttome.com/)
