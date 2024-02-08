@@ -12,6 +12,9 @@ An  awesome-list of tools and information for talent acquisition professionals.
 - [Talk Talent to Me](http://www.talktalenttome.com/)
 - [The Chad & Cheese Podcast](https://www.chadcheese.com/)
 - [Recruitment On The Go](https://podcasts.apple.com/gb/podcast/recruitment-on-the-go/id1469026502)
+- [Recruiting Future by Matt Alder](https://recruitingfuture.com/)
+- [The Recruiting Brainfood Podcast by Hung Lee](https://www.recruitingbrainfood.com/)
+- [Talent Takeover Unfiltered by Brianna Rooney](https://podcasts.apple.com/us/podcast/talent-takeover-unfiltered/id1621958339)
 
 ## Books
 - [Full Stack Recruiter - Jan Tegze](https://www.amazon.com/Full-Stack-Recruiter-Modern-Recruiters/dp/1976130735)
